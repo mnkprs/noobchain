@@ -7,8 +7,9 @@ public class NoobChain {
 
 	public static void main(String[] args) {	
 		//add our blocks to the blockchain ArrayList:
-		
-		System.out.println("Trying to Mine block 1... ");
+		// TODO: 3/5/2018 ADD WALLET 
+        // TODO: 3/5/2018 CREATE TRANSACTIONS
+        System.out.println("Trying to Mine block 1... ");
 		addBlock(new Block("Hi im the first block", "0"));
 		
 		System.out.println("Trying to Mine block 2... ");
